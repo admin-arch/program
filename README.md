@@ -3,7 +3,7 @@ JAVA PROGRAM
 HELLO WORLD
 
 
-    public class MyFirstJavaProgram {
+    public class Program {
 
         public static void main(String []args) {
    
